@@ -1,1 +1,2 @@
-# advanced-reporting-magento2
+# Magento 2 Advanced Reporting extension
+Magento 2 Advanced Reporting extension is an innovative module which helps online stores track, process and manages their business better with advanced reports. Statistical data collected from customers, orders, sales, and products on a regular basis are quickly sorted out, providing a great help to store owners in both business and marketing decision-making.
